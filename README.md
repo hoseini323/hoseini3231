@@ -1,7 +1,7 @@
 # hoseini3231
 hoseini323
 import requests
-import base64
+imprt base64
 import zipfile
 import io
 import
