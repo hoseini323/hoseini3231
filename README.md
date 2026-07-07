@@ -34,3 +34,4 @@ with zipfile.ZipFile(zip_bytes) as z:
 
 print(f"✅  Repository '{owner}/{repo}' extracted to ./{repo}")
 List the advantages and disadvantages.
+Imagine living on Mars.
