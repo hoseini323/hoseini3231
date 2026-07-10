@@ -30,8 +30,7 @@ with zipfile.ZipFile(zip_bytes) as z:
     # Extract everything into a folder named after the repo
     extract_path = f"./{repo}"
     os.makedirs(extract_path, exist_ok=True)
-    z.extractal(path=extract_path)
-
+  
 print(f"✅  Repository '{owner}/{repo}' extracted to ./{repo}")
 List the advantages and disadvantages.
 Imagine living on Mars.
