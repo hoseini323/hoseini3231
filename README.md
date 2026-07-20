@@ -6,7 +6,7 @@
 
 
 -----------------------
-# 1️⃣  BASIC SETTINGS
+ BASIC SETTINGS
 # ----------------------------
 owner = "OWNER"          # e.g. "torvalds"
 repo  = "REPO"           # e.g. "linux"
