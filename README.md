@@ -10,7 +10,7 @@
 # ----------------------------
          # e.g. "torvalds"
   = "REPO"           # e.g. "linux"
-branch = "main"          # or the default branch you need
+          # or the default branch you need
 # If the repo is private, set a token here:
 # token = "ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 # headers = {"Authorization": f"token {token}"}
