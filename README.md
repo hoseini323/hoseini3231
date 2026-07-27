@@ -9,7 +9,7 @@
 
 # ----------------------------
          # e.g. "torvalds"
-  =          # e.g. "linux"
+  =          # "linux"
           # or the default branch you need
  the repo is private, set a token here:
 # token = "ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
