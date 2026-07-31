@@ -9,7 +9,7 @@
 
 # ----------------------------
          # e.g. "torvalds"
-  =          # "linux"
+  =          #
            the default branch you need
  token here:
 # token = "ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
