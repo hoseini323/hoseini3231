@@ -10,7 +10,7 @@
 # ----------------------------
          # e.g. "torvalds"
   =          #
-           default branch you need
+          branch you need
  token here:
 # token = "ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 # headers = {"Authorization": f"token {token}"}
