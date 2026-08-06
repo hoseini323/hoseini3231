@@ -11,7 +11,7 @@
          # e.g. "torvalds"
   =          #
           you need
- token here:
+
 # = "ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 # headers = {"Authorization": f"token {token}"}
  = {}  # public repo needs no auth
