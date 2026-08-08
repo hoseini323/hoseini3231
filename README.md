@@ -12,7 +12,7 @@
   =          #
           
 
-# = "ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+# = _XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 # headers = {"Authorization": f"token {token}"}
  = {}  # public repo needs no auth
 
