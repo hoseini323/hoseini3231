@@ -13,7 +13,7 @@
           
 
 _XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
-= {"Authorization": f"token {token}"}
+Authorization": f"token {token}"}
  = {}  # public repo needs no auth
 
 # ----------------------------
