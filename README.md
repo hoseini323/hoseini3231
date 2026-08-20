@@ -14,7 +14,7 @@
 
 _XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 horization": f"token {token}"}
- ublic repo needs no auth
+ lic repo needs no auth
 
 # ----------------------------
 # 2️⃣  FETCH IP ARCHIVE (quickest way to get the whole repo)
