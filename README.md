@@ -14,7 +14,7 @@
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 horization": f"token {token}"}
- lic repo needs no auth
+ repo needs no auth
 
 # ----------------------------
 # 2️⃣  FETCH IP ARCHIVE (quickest way to get the whole repo)
