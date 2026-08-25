@@ -14,7 +14,7 @@
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 horization": f"token {token}"}
-po needs no auth
+needs no auth
 
 # ----------------------------
 # 2️⃣  FETCH IP ARCHIVE (quickest way to get the whole repo)
