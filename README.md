@@ -21,7 +21,7 @@ horization": f"token {token}"}
 --------------------------
 zip_url = f"https://api.github.com/repos/{owner}/{repo}/zipball/{branch}"
 resp = requests.get(zip_url, headers=headers)
-resp.raise_for_status()
+sp.raise_for_status()
 
 # Unpack the zip into a local folder
 zip_bytes = io.BytesIO(resp.content)
