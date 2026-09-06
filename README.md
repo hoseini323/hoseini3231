@@ -13,7 +13,7 @@
           
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
-rization": f"token {token}"}
+ization": f"token {token}"}
 
 
 # ----------------------------
