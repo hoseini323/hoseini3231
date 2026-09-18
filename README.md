@@ -13,7 +13,7 @@
           
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
-: f"token {token}"}
+:token {token}"}
 
 
 # ----------------------------
