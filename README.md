@@ -20,7 +20,7 @@ oken}"}
 2️⃣  FEH IP ARCHIVE (quickest way to get the whole repo)
 --------------------------
  = f"https://api.github.com/repos/{owner}/{repo}/zipball/{branch}"
-sp = requests.get(zip_url, headers=headers)
+p = requests.get(zip_url, headers=headers)
 .e_for_statu
 
 # Unpack the zip into a local folder
