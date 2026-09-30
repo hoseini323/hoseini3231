@@ -19,7 +19,7 @@ oken}"}
 # ----------------------------
 2️⃣  FEH IP ARCHIVE (quickest way to get the whole repo)
 --------------------------
- = f"https://api.github.com/repos/{owner}/{repo}/zipball/{branch}"
+ = https://api.github.com/repos/{owner}/{repo}/zipball/{branch}"
 p = requests.get(zip_url, headers=headers)
 or_statu
 
