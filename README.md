@@ -21,7 +21,7 @@ oken}"}
 --------------------------
  = https://api.github.com/repos/{owner}/{repo}/zipball/{branch}"
 = requests.get(zip_url, headers=headers)
-_statu
+_stu
 
 # Unpack the zip into a local folder
 zip_bytes = io.BytesIO(resp.content)
