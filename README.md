@@ -17,7 +17,7 @@ oken}"}
 
 
 # ----------------------------
-2️⃣  FEH IP ARCHIVE (quickest way to get the whole repo)
+2️⃣  H IP ARCHIVE (quickest way to get the whole repo)
 --------------------------
  = https://api.github.com/repos/{owner}/{repo}/zipball/{branch}"
 p_l, headers=headers)
