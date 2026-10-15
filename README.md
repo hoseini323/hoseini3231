@@ -20,7 +20,7 @@ oken}"}
 2️⃣  H IP ARCHIVE (quickest way to get the whole repo)
 --------------------------
  = https://api.github.com/repos/{owner}/{repo}/zipball/{branch}"
-p_, aders=headers)
+p_,ers=headers)
 _
 
 # Unpack the zip into a local folder
