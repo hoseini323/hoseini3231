@@ -17,7 +17,7 @@ oken}"}
 
 
 # ----------------------------
-2️⃣  IPRCHIVE (quickest way to get the whole repo)
+2️⃣  IPRCHIVE (quickest ay to get the whole repo)
 --------------------------
  = https://api.ithub.com/repos/{owner}/{repo}/zipball/{branch}"
 p_,ers=headers)
