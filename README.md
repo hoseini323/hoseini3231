@@ -19,7 +19,7 @@ oken}"}
 # ----------------------------
 2️⃣ PRCHIVE (quickest ay to get the whole repo)
 --------------------------
- = https://api.ithub.com/repos/{owner}/{repo}/zipball/{branch}"
+ = https://thub.com/repos/{owner}/{repo}/zipball/{branch}"
 p_,ers=headers)
 _
 
