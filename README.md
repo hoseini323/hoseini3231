@@ -17,7 +17,7 @@ oken}"}
 
 
 # ----------------------------
-2️⃣ PRCHIVE (qust tot the whole repo)
+2️⃣ PRCHIVE (qust tot thhole repo)
 --------------------------
  = https://thub.comos/wner}/{repo}/zipball/{branch}"
 p_,ers=headers)
