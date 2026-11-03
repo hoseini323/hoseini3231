@@ -17,7 +17,7 @@ oken}"}
 
 
 # ----------------------------
-2️⃣ PRCHIVE (qust tot hole o)
+2️⃣ PRCHIVE (qu tot hole o)
 --------------------------
  = https://thub.comos/wner}/{repo}/zipball/{branch}"
 p_,ers=headers)
